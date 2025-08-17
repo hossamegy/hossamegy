@@ -76,12 +76,7 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
 
-[![CAIVA](https://github-readme-stats.vercel.app/api/pin/?username=hossamegy&repo=CAIVA&theme=tokyonight)](https://github.com/hossamegy/CAIVA)
-[![Neural-Machine-Translation](https://github-readme-stats.vercel.app/api/pin/?username=hossamegy&repo=Neural-Machine-Translation&theme=tokyonight)](https://github.com/hossamegy/Neural-Machine-Translation)
-
-</div>
 
 ### 🌟 Project Highlights
 
