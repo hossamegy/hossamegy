@@ -47,15 +47,6 @@ Focused on **LLMs, NLP, and real-world AI applications**, supported by strong so
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossamegy&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamegy&layout=compact&theme=tokyonight" height="180"/>
-</p>  
-
----
-
 ## 🚀 Tech Stack  
 
 <p align="center">
