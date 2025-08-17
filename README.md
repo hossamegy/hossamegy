@@ -1,322 +1,147 @@
-<!-- HERO SECTION -->
+# 👨‍💻 Hossam Eldin Tammam Gad
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hossam%20Eldin%20Tammam%20Gad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Back-End+Developer;Building+Intelligent+Systems;Scaling+AI+Solutions;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=🚀+AI+Engineer+%26+Backend+Architect;🤖+Building+Next-Gen+AI+Solutions;💡+Turning+Ideas+Into+Reality;🌟+Welcome+to+My+Digital+Universe!" alt="Typing SVG" />
-</div>
-
-<!-- MODERN BADGES -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🌍_Location-Cairo,_Egypt-FF6B6B?style=for-the-badge&labelColor=1F2937" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=hossamegy&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/hossamegy?style=for-the-badge&color=A9FEF7&labelColor=1F2937&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open_to-Collaborate-10B981?style=for-the-badge&labelColor=1F2937" alt="Open to Collaborate"/>
-</div>
-
-<!-- GLASSMORPHISM CARD -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=Redressed" alt="Quote"/>
+  <img src="https://komarev.com/ghpvc/?username=hossamegy&color=0891b2&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hossamegy?style=flat-square&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Cairo-Egypt-ff6b6b?style=flat-square" alt="Location" />
 </div>
 
 ---
 
-<!-- ABOUT ME SECTION -->
-## 🌟 About Me
+## 🚀 About Me
 
-<table>
-<tr>
-<td width="55%">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 💫 **Who I Am**
-```yaml
-name: "Hossam Eldin Tammam Gad"
-role: "AI Engineer & Backend Architect"
-location: "Cairo, Egypt 🇪🇬"
-education: "Computer Science (GPA: 3.70) 🎓"
-passion: "Building intelligent systems that scale"
-current_focus: ["LLMs", "GenAI", "MLOps", "System Architecture"]
-```
+- 🎓 **Computer Science Graduate** with honors (GPA: 3.70)
+- 🤖 Passionate about **AI/ML**, **LLMs**, and **Generative AI**
+- 🛠️ Building **scalable backend systems** with modern architectures
+- 🌱 Currently exploring **advanced NLP** and **MLOps**
+- 💡 Love turning complex problems into elegant solutions
+- 📫 Reach me at **hossam.eldinegy@gmail.com**
 
-### 🎯 **Current Objectives**
-- 🚀 Developing production-ready AI applications
-- 🔬 Researching advanced NLP & computer vision
-- 🏗️ Architecting scalable backend systems
-- 🌱 Contributing to open-source AI projects
+<br clear="right"/>
 
-</td>
-<td width="45%">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossamegy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=00D4FF&text_color=ffffff&title_color=00D4FF" alt="GitHub Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossamegy&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak"/>
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- TECH STACK MODERN GRID -->
-## 🛠️ Tech Universe
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 🤖 **AI & Machine Learning**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-<br/><strong>Python</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow"/>
-<br/><strong>TensorFlow</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
-<br/><strong>PyTorch</strong>
-</td>
-<td align="center" width="120">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace"/>
-<br/><strong>🤗 Transformers</strong>
-</td>
-<td align="center" width="120">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" height="48" alt="LangChain"/>
-<br/><strong>LangChain</strong>
-</td>
-</tr>
-</table>
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+</p>
 
-### 💻 **Backend & Development**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#"/>
-<br/><strong>C#</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core"/>
-<br/><strong>.NET Core</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-<br/><strong>Node.js</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="48" height="48" alt="Angular"/>
-<br/><strong>Angular</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
-<br/><strong>Docker</strong>
-</td>
-</tr>
-</table>
+### 💻 Backend & Development
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
 
-### 🗄️ **Databases & Tools**
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
-<br/><strong>SQL Server</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
-<br/><strong>MongoDB</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-<br/><strong>Git</strong>
-</td>
-<td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/>
-<br/><strong>Postman</strong>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
-<br/><strong>FastAPI</strong>
-</td>
-</tr>
-</table>
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 </div>
 
 ---
 
-<!-- MODERN STATS SECTION -->
-## 📊 Performance Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hossamegy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=00D4FF&text_color=ffffff&title_color=00D4FF&custom_title=⚡+GitHub+Performance" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamegy&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=00D4FF&custom_title=🚀+Code+Distribution" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hossamegy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamegy&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=hossamegy&custom_title=📈+Contribution+Timeline&hide_border=true&border_radius=15&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area_color=00D4FF&title_color=00D4FF&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hossamegy&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
-<!-- PROJECTS SHOWCASE -->
 ## 🏆 Featured Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+[![CAIVA](https://github-readme-stats.vercel.app/api/pin/?username=hossamegy&repo=CAIVA&theme=tokyonight)](https://github.com/hossamegy/CAIVA)
+[![Neural-Machine-Translation](https://github-readme-stats.vercel.app/api/pin/?username=hossamegy&repo=Neural-Machine-Translation&theme=tokyonight)](https://github.com/hossamegy/Neural-Machine-Translation)
 
-### 🤖 **CAIVA - AI Virtual Assistant**
-```yaml
-🎯 Purpose: Interactive 3D AI Avatar
-🛠️ Tech: Unreal Engine, Python, LangChain
-✨ Features: Emotion Recognition, Real-time Speech
-📊 Achievement: Advanced NLP Integration
-🔗 Status: Graduation Project
-```
-[![CAIVA](https://img.shields.io/badge/View_Project-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossamegy/CAIVA)
+</div>
 
-</td>
-<td width="50%">
+### 🌟 Project Highlights
 
-### 🔥 **Real-time Fire Detection**
-```yaml
-🎯 Purpose: Computer Vision Safety System
-🛠️ Tech: YOLOv8, OpenCV, Python
-✨ Features: Real-time Detection & Alerts
-📊 Achievement: 89% mAP Accuracy
-🔗 Status: Production Ready
-```
-[![Fire Detection](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossamegy/fire-detection)
+| Project | Tech Stack | Achievement |
+|---------|------------|-------------|
+| **🤖 CAIVA - AI Virtual Assistant** | Unreal Engine, Python, LangChain, NLP | Interactive 3D avatar with emotion recognition |
+| **🔥 Fire Detection System** | YOLOv8, Computer Vision | 89% mAP real-time detection |
+| **🌐 Translation Engine** | TensorFlow, LSTM, Attention | 28 BLEU score (7-point improvement) |
+| **💼 Management Systems** | ASP.NET Core, Angular, Clean Architecture | Production-ready enterprise solutions |
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-### 🌐 **Neural Machine Translation**
-```yaml
-🎯 Purpose: English-Arabic Translation
-🛠️ Tech: TensorFlow, LSTM, Attention
-✨ Features: Bidirectional Processing
-📊 Achievement: 28 BLEU Score
-🔗 Status: Research Complete
-```
-[![NMT](https://img.shields.io/badge/View_Project-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossamegy/neural-translation)
+## 📈 Contribution Graph
 
-</td>
-<td width="50%">
-
-### 💼 **Enterprise Management System**
-```yaml
-🎯 Purpose: Full-stack Business Solution
-🛠️ Tech: ASP.NET Core, Angular, SQL
-✨ Features: Clean Architecture, RESTful APIs
-📊 Achievement: Production Deployment
-🔗 Status: Currently in Use
-```
-[![Management System](https://img.shields.io/badge/View_Project-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hossamegy/management-system)
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossamegy&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-<!-- ACHIEVEMENTS SECTION -->
 ## 🏅 Certifications & Achievements
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎓-Machine_Learning-FF6B6B?style=for-the-badge&labelColor=1F2937"/>
-<br/><strong>Stanford/Coursera</strong>
-<br/><em>Core ML Algorithms</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🧠-Deep_Learning-00D4FF?style=for-the-badge&labelColor=1F2937"/>
-<br/><strong>deeplearning.ai</strong>
-<br/><em>Neural Networks</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🗣️-NLP_Expert-10B981?style=for-the-badge&labelColor=1F2937"/>
-<br/><strong>deeplearning.ai</strong>
-<br/><em>Natural Language Processing</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/⚡-TensorFlow-A855F7?style=for-the-badge&labelColor=1F2937"/>
-<br/><strong>Google</strong>
-<br/><em>Production ML</em>
-</td>
-</tr>
-</table>
+| Certification | Issuer | Focus Area |
+|---------------|--------|------------|
+| 🎓 **Machine Learning Specialization** | Stanford/Coursera | Core ML Algorithms |
+| 🧠 **Deep Learning Specialization** | deeplearning.ai | Neural Networks |
+| 🗣️ **NLP Specialization** | deeplearning.ai | Natural Language Processing |
+| ⚡ **TensorFlow Developer** | Google | Production ML |
 
 </div>
 
 ---
 
-<!-- CONTACT SECTION -->
-## 🤝 Connect & Collaborate
+## 🤝 Let's Connect!
 
 <div align="center">
+  <a href="https://linkedin.com/in/hossamtammam">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hossam.eldinegy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/hossamegy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-### 💬 **Let's Build Something Amazing Together!**
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<br/>
-<a href="https://linkedin.com/in/hossamtammam">
-<strong>Professional Network</strong>
-</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/✉️-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-<br/>
-<a href="mailto:hossam.eldinegy@gmail.com">
-<strong>Direct Contact</strong>
-</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/💻-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<br/>
-<a href="https://github.com/hossamegy">
-<strong>Code Repository</strong>
-</a>
-</td>
-</tr>
-</table>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/⭐-Thanks_for_visiting!-FF6B6B?style=for-the-badge&labelColor=1F2937"/>
-  <br/>
-  <em>"Innovation distinguishes between a leader and a follower." - Steve Jobs</em>
-  <br/><br/>
-  <strong>🚀 Ready to turn ideas into reality? Let's connect!</strong>
+  <h3>💭 "Building the future, one algorithm at a time"</h3>
+  <p><em>Thanks for visiting! ⭐ Feel free to star my repos if you find them interesting!</em></p>
 </div>
