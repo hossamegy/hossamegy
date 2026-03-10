@@ -17,6 +17,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🎓 **Computer Science Graduate** with honors (GPA: 3.70)
+- 🎓 M.Sc. Artificial Intelligence Engineering Student @ Zewail City of Science and Technology
+- 🔬 Aspiring AI Researcher
 - 🤖 Passionate about **AI/ML**, **LLMs**, and **Generative AI**
 - 🛠️ Building **scalable backend systems** with modern architectures
 - 🌱 Currently exploring **advanced NLP** and **MLOps**
